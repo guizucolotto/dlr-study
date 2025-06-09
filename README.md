@@ -10,7 +10,7 @@ The project aims to provide practical examples of DRL implementations.
 
 To get started, make sure you meet the following requirements:
 
-*   Python Version 3.9.10+ (as specified in the original README, although the notebooks seem to work with 3.11.X as well, sticking to the original for now)
+*   Python Version 3.11+ 
 *   Jupyter Notebook
 *   Required Python Libraries:
     *   TensorFlow
